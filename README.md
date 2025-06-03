@@ -24,7 +24,7 @@ A powerful and versatile podcast generation tool that converts various types of 
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/GudisaSandeep/Podcast-Generator
 cd podcast-generator
 ```
 
